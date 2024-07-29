@@ -101,7 +101,7 @@
 
 19. В ответе пришлите ссылку на репозиторий.
 
-https://github.com/artmur1/example-teamcity
+https://github.com/example-teamcity
 
 ---
 
